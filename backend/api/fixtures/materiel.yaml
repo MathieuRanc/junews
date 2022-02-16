@@ -1,0 +1,5 @@
+App\Entity\Materiel:
+  materiel_{1..10}:
+    nom: <name()>
+    description: <text()>
+    evenements: "10x @evenement_*"

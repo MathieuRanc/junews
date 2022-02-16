@@ -1,0 +1,8 @@
+App\Entity\Lieu:
+  lieu_{1..20}:
+    nom: <name()>
+    type: <name()>
+    adresse: <address()>
+    description: <text()>
+    evenements: "10x @evenement_*"
+    # cours: "10x @cours_*"

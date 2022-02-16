@@ -1,0 +1,181 @@
+nom;dateDebut;dateFin;description;lieu;examen;promo
+Cour CSI3;2021-06-28 08:00;2021-06-28 10:00;Un cours d'informatique;1;false;1
+Cour CSI3;2021-06-28 10:00;2021-06-28 12:00;Un cours d’électronique;1;false;1
+Cour CSI3;2021-06-28 13:30;2021-06-28 15:30;Un cours de communication;1;false;1
+Cour CSI3;2021-06-28 16:00;2021-06-28 18:00;Un cours cybersécurité;1;false;1
+Cour CSI3;2021-06-30 08:00;2021-06-30 10:00;Un cours d'informatique;1;false;1
+Cour CSI3;2021-06-30 10:00;2021-06-30 12:00;Un cours d’électronique;1;false;1
+Cour CSI3;2021-06-30 13:30;2021-06-30 15:30;Un cours de communication;1;false;1
+Cour CSI3;2021-06-30 16:00;2021-06-30 18:00;Un cours cybersécurité;1;false;1
+Cour CSI3;2021-07-01 08:00;2021-07-01 10:00;Un cours d'informatique;1;false;1
+Cour CSI3;2021-07-01 10:00;2021-07-01 12:00;Un cours d’électronique;1;false;1
+Cour CSI3;2021-07-01 13:30;2021-07-01 15:30;Un cours de communication;1;false;1
+Cour CSI3;2021-07-01 16:00;2021-07-01 18:00;Un cours cybersécurité;1;false;1
+Cour CSI3;2021-07-02 08:00;2021-07-02 10:00;Un cours d'informatique;1;true;1
+Cour CSI3;2021-07-02 10:00;2021-07-02 12:00;Un cours d’électronique;1;true;1
+Cour CSI3;2021-07-02 13:30;2021-07-02 15:30;Un cours de communication;1;true;1
+Cour CSI3;2021-07-02 16:00;2021-07-02 18:00;Un cours cybersécurité;1;true;1
+Cour CSI3;2021-07-06 08:00;2021-07-06 10:00;Un cours d'informatique;1;false;1
+Cour CSI3;2021-07-06 10:00;2021-07-06 12:00;Un cours d’électronique;1;false;1
+Cour CSI3;2021-07-06 13:30;2021-07-06 13:30;Un cours de communication;1;false;1
+Cour CSI3;2021-07-06 16:00;2021-07-06 18:00;Un cours cybersécurité;1;false;1
+Cour CSI3;2021-07-07 08:00;2021-07-07 10:00;Un cours d'informatique;1;true;1
+Cour CSI3;2021-07-07 10:00;2021-07-07 12:00;Un cours d’électronique;1;true;1
+Cour CSI3;2021-07-07 13:30;2021-07-07 13:30;Un cours de communication;1;true;1
+Cour CSI3;2021-07-07 16:00;2021-07-07 18:00;Un cours cybersécurité;1;true;1
+Cour CSI3;2021-07-08 08:00;2021-07-08 10:00;Un cours d'informatique;1;true;1
+Cour CSI3;2021-07-08 10:00;2021-07-08 12:00;Un cours d’électronique;1;true;1
+Cour CSI3;2021-07-08 13:30;2021-07-08 13:30;Un cours de communication;1;true;1
+Cour CSI3;2021-07-08 16:00;2021-07-08 18:00;Un cours cybersécurité;1;true;1
+Cour CSI3;2021-07-09 08:00;2021-07-09 10:00;Un cours d'informatique;1;false;1
+Cour CSI3;2021-07-09 10:00;2021-07-09 12:00;Un cours d’électronique;1;false;1
+Cour CSI3;2021-07-09 13:30;2021-07-09 13:30;Un cours de communication;1;false;1
+Cour CSI3;2021-07-09 16:00;2021-07-09 18:00;Un cours cybersécurité;1;false;1
+Cour CIR3;2021-06-29 08:00;2021-06-29 10:00;Un cours d'informatique;1;false;2
+Cour CIR3;2021-06-29 10:00;2021-06-29 12:00;Un cours d’électronique;1;false;2
+Cour CIR3;2021-06-29 13:30;2021-06-29 15:30;Un cours de communication;1;false;2
+Cour CIR3;2021-06-29 16:00;2021-06-29 18:00;Un cours cybersécurité;1;false;2
+Cour CIR3;2021-07-01 08:00;2021-07-01 10:00;Un cours d'informatique;1;false;2
+Cour CIR3;2021-07-01 10:00;2021-07-01 12:00;Un cours d’électronique;1;false;2
+Cour CIR3;2021-07-01 13:30;2021-07-01 15:30;Un cours de communication;1;false;2
+Cour CIR3;2021-07-01 16:00;2021-07-01 18:00;Un cours cybersécurité;1;false;2
+Cour CIR3;2021-07-02 08:00;2021-07-02 10:00;Un cours d'informatique;1;true;2
+Cour CIR3;2021-07-02 10:00;2021-07-02 12:00;Un cours d’électronique;1;true;2
+Cour CIR3;2021-07-02 13:30;2021-07-02 15:30;Un cours de communication;1;true;2
+Cour CIR3;2021-07-02 16:00;2021-07-02 18:00;Un cours cybersécurité;1;true;2
+Cour CIR3;2021-07-05 08:00;2021-07-05 10:00;Un cours d'informatique;1;true;2
+Cour CIR3;2021-07-05 10:00;2021-07-05 12:00;Un cours d’électronique;1;true;2
+Cour CIR3;2021-07-05 13:30;2021-07-05 13:30;Un cours de communication;1;true;2
+Cour CIR3;2021-07-05 16:00;2021-07-05 18:00;Un cours cybersécurité;1;true;2
+Cour CIR3;2021-07-06 08:00;2021-07-06 10:00;Un cours d'informatique;1;false;2
+Cour CIR3;2021-07-06 10:00;2021-07-06 12:00;Un cours d’électronique;1;false;2
+Cour CIR3;2021-07-06 13:30;2021-07-06 13:30;Un cours de communication;1;false;2
+Cour CIR3;2021-07-06 16:00;2021-07-06 18:00;Un cours cybersécurité;1;false;2
+Cour CIR3;2021-07-08 08:00;2021-07-08 10:00;Un cours d'informatique;1;false;2
+Cour CIR3;2021-07-08 10:00;2021-07-08 12:00;Un cours d’électronique;1;false;2
+Cour CIR3;2021-07-08 13:30;2021-07-08 13:30;Un cours de communication;1;false;2
+Cour CIR3;2021-07-08 16:00;2021-07-08 18:00;Un cours cybersécurité;1;false;2
+Cour CIR3;2021-07-09 08:00;2021-07-09 10:00;Un cours d'informatique;1;false;2
+Cour CIR3;2021-07-09 10:00;2021-07-09 12:00;Un cours d’électronique;1;false;2
+Cour CIR3;2021-07-09 13:30;2021-07-09 13:30;Un cours de communication;1;false;2
+Cour CIR3;2021-07-09 16:00;2021-07-09 18:00;Un cours cybersécurité;1;false;2
+Cour CSI3;2021-06-28 08:00;2021-06-28 10:00;Un cours d'informatique;1;false;3
+Cour CSI3;2021-06-28 10:00;2021-06-28 12:00;Un cours d’électronique;1;false;3
+Cour CSI3;2021-06-28 13:30;2021-06-28 15:30;Un cours de communication;1;false;3
+Cour CSI3;2021-06-28 16:00;2021-06-28 18:00;Un cours cybersécurité;1;false;3
+Cour CSI3;2021-06-30 08:00;2021-06-30 10:00;Un cours d'informatique;1;false;3
+Cour CSI3;2021-06-30 10:00;2021-06-30 12:00;Un cours d’électronique;1;false;3
+Cour CSI3;2021-06-30 13:30;2021-06-30 15:30;Un cours de communication;1;false;3
+Cour CSI3;2021-06-30 16:00;2021-06-30 18:00;Un cours cybersécurité;1;false;3
+Cour CSI3;2021-07-01 08:00;2021-07-01 10:00;Un cours d'informatique;1;false;3
+Cour CSI3;2021-07-01 10:00;2021-07-01 12:00;Un cours d’électronique;1;false;3
+Cour CSI3;2021-07-01 13:30;2021-07-01 15:30;Un cours de communication;1;false;3
+Cour CSI3;2021-07-01 16:00;2021-07-01 18:00;Un cours cybersécurité;1;false;3
+Cour CSI3;2021-07-02 08:00;2021-07-02 10:00;Un cours d'informatique;1;true;3
+Cour CSI3;2021-07-02 10:00;2021-07-02 12:00;Un cours d’électronique;1;true;3
+Cour CSI3;2021-07-02 13:30;2021-07-02 15:30;Un cours de communication;1;true;3
+Cour CSI3;2021-07-02 16:00;2021-07-02 18:00;Un cours cybersécurité;1;true;3
+Cour CSI3;2021-07-06 08:00;2021-07-06 10:00;Un cours d'informatique;1;false;3
+Cour CSI3;2021-07-06 10:00;2021-07-06 12:00;Un cours d’électronique;1;false;3
+Cour CSI3;2021-07-06 13:30;2021-07-06 13:30;Un cours de communication;1;false;3
+Cour CSI3;2021-07-06 16:00;2021-07-06 18:00;Un cours cybersécurité;1;false;3
+Cour CSI3;2021-07-07 08:00;2021-07-07 10:00;Un cours d'informatique;1;true;3
+Cour CSI3;2021-07-07 10:00;2021-07-07 12:00;Un cours d’électronique;1;true;3
+Cour CSI3;2021-07-07 13:30;2021-07-07 13:30;Un cours de communication;1;true;3
+Cour CSI3;2021-07-07 16:00;2021-07-07 18:00;Un cours cybersécurité;1;true;3
+Cour CSI3;2021-07-08 08:00;2021-07-08 10:00;Un cours d'informatique;1;true;3
+Cour CSI3;2021-07-08 10:00;2021-07-08 12:00;Un cours d’électronique;1;true;3
+Cour CSI3;2021-07-08 13:30;2021-07-08 13:30;Un cours de communication;1;true;3
+Cour CSI3;2021-07-08 16:00;2021-07-08 18:00;Un cours cybersécurité;1;true;3
+Cour CSI3;2021-07-09 08:00;2021-07-09 10:00;Un cours d'informatique;1;false;3
+Cour CSI3;2021-07-09 10:00;2021-07-09 12:00;Un cours d’électronique;1;false;3
+Cour CSI3;2021-07-09 13:30;2021-07-09 13:30;Un cours de communication;1;false;3
+Cour CSI3;2021-07-09 16:00;2021-07-09 18:00;Un cours cybersécurité;1;false;3
+Cour CIR3;2021-06-29 08:00;2021-06-29 10:00;Un cours d'informatique;1;false;4
+Cour CIR3;2021-06-29 10:00;2021-06-29 12:00;Un cours d’électronique;1;false;4
+Cour CIR3;2021-06-29 13:30;2021-06-29 15:30;Un cours de communication;1;false;4
+Cour CIR3;2021-06-29 16:00;2021-06-29 18:00;Un cours cybersécurité;1;false;4
+Cour CIR3;2021-07-01 08:00;2021-07-01 10:00;Un cours d'informatique;1;false;4
+Cour CIR3;2021-07-01 10:00;2021-07-01 12:00;Un cours d’électronique;1;false;4
+Cour CIR3;2021-07-01 13:30;2021-07-01 15:30;Un cours de communication;1;false;4
+Cour CIR3;2021-07-01 16:00;2021-07-01 18:00;Un cours cybersécurité;1;false;4
+Cour CIR3;2021-07-02 08:00;2021-07-02 10:00;Un cours d'informatique;1;true;4
+Cour CIR3;2021-07-02 10:00;2021-07-02 12:00;Un cours d’électronique;1;true;4
+Cour CIR3;2021-07-02 13:30;2021-07-02 15:30;Un cours de communication;1;true;4
+Cour CIR3;2021-07-02 16:00;2021-07-02 18:00;Un cours cybersécurité;1;true;4
+Cour CIR3;2021-07-05 08:00;2021-07-05 10:00;Un cours d'informatique;1;true;4
+Cour CIR3;2021-07-05 10:00;2021-07-05 12:00;Un cours d’électronique;1;true;4
+Cour CIR3;2021-07-05 13:30;2021-07-05 13:30;Un cours de communication;1;true;4
+Cour CIR3;2021-07-05 16:00;2021-07-05 18:00;Un cours cybersécurité;1;true;4
+Cour CIR3;2021-07-06 08:00;2021-07-06 10:00;Un cours d'informatique;1;false;4
+Cour CIR3;2021-07-06 10:00;2021-07-06 12:00;Un cours d’électronique;1;false;4
+Cour CIR3;2021-07-06 13:30;2021-07-06 13:30;Un cours de communication;1;false;4
+Cour CIR3;2021-07-06 16:00;2021-07-06 18:00;Un cours cybersécurité;1;false;4
+Cour CIR3;2021-07-08 08:00;2021-07-08 10:00;Un cours d'informatique;1;false;4
+Cour CIR3;2021-07-08 10:00;2021-07-08 12:00;Un cours d’électronique;1;false;4
+Cour CIR3;2021-07-08 13:30;2021-07-08 13:30;Un cours de communication;1;false;4
+Cour CIR3;2021-07-08 16:00;2021-07-08 18:00;Un cours cybersécurité;1;false;4
+Cour CIR3;2021-07-09 08:00;2021-07-09 10:00;Un cours d'informatique;1;false;4
+Cour CIR3;2021-07-09 10:00;2021-07-09 12:00;Un cours d’électronique;1;false;4
+Cour CIR3;2021-07-09 13:30;2021-07-09 13:30;Un cours de communication;1;false;4
+Cour CIR3;2021-07-09 16:00;2021-07-09 18:00;Un cours cybersécurité;1;false;4
+Cour CSI3;2021-06-28 08:00;2021-06-28 10:00;Un cours d'informatique;1;false;5
+Cour CSI3;2021-06-28 10:00;2021-06-28 12:00;Un cours d’électronique;1;false;5
+Cour CSI3;2021-06-28 13:30;2021-06-28 15:30;Un cours de communication;1;false;5
+Cour CSI3;2021-06-28 16:00;2021-06-28 18:00;Un cours cybersécurité;1;false;5
+Cour CSI3;2021-06-30 08:00;2021-06-30 10:00;Un cours d'informatique;1;false;5
+Cour CSI3;2021-06-30 10:00;2021-06-30 12:00;Un cours d’électronique;1;false;5
+Cour CSI3;2021-06-30 13:30;2021-06-30 15:30;Un cours de communication;1;false;5
+Cour CSI3;2021-06-30 16:00;2021-06-30 18:00;Un cours cybersécurité;1;false;5
+Cour CSI3;2021-07-01 08:00;2021-07-01 10:00;Un cours d'informatique;1;false;5
+Cour CSI3;2021-07-01 10:00;2021-07-01 12:00;Un cours d’électronique;1;false;5
+Cour CSI3;2021-07-01 13:30;2021-07-01 15:30;Un cours de communication;1;false;5
+Cour CSI3;2021-07-01 16:00;2021-07-01 18:00;Un cours cybersécurité;1;false;5
+Cour CSI3;2021-07-02 08:00;2021-07-02 10:00;Un cours d'informatique;1;true;5
+Cour CSI3;2021-07-02 10:00;2021-07-02 12:00;Un cours d’électronique;1;true;5
+Cour CSI3;2021-07-02 13:30;2021-07-02 15:30;Un cours de communication;1;true;5
+Cour CSI3;2021-07-02 16:00;2021-07-02 18:00;Un cours cybersécurité;1;true;5
+Cour CSI3;2021-07-06 08:00;2021-07-06 10:00;Un cours d'informatique;1;false;5
+Cour CSI3;2021-07-06 10:00;2021-07-06 12:00;Un cours d’électronique;1;false;5
+Cour CSI3;2021-07-06 13:30;2021-07-06 13:30;Un cours de communication;1;false;5
+Cour CSI3;2021-07-06 16:00;2021-07-06 18:00;Un cours cybersécurité;1;false;5
+Cour CSI3;2021-07-07 08:00;2021-07-07 10:00;Un cours d'informatique;1;true;5
+Cour CSI3;2021-07-07 10:00;2021-07-07 12:00;Un cours d’électronique;1;true;5
+Cour CSI3;2021-07-07 13:30;2021-07-07 13:30;Un cours de communication;1;true;5
+Cour CSI3;2021-07-07 16:00;2021-07-07 18:00;Un cours cybersécurité;1;true;5
+Cour CSI3;2021-07-08 08:00;2021-07-08 10:00;Un cours d'informatique;1;true;5
+Cour CSI3;2021-07-08 10:00;2021-07-08 12:00;Un cours d’électronique;1;true;5
+Cour CSI3;2021-07-08 13:30;2021-07-08 13:30;Un cours de communication;1;true;5
+Cour CSI3;2021-07-08 16:00;2021-07-08 18:00;Un cours cybersécurité;1;true;5
+Cour CSI3;2021-07-09 08:00;2021-07-09 10:00;Un cours d'informatique;1;false;5
+Cour CSI3;2021-07-09 10:00;2021-07-09 12:00;Un cours d’électronique;1;false;5
+Cour CSI3;2021-07-09 13:30;2021-07-09 13:30;Un cours de communication;1;false;5
+Cour CSI3;2021-07-09 16:00;2021-07-09 18:00;Un cours cybersécurité;1;false;5
+Cour CIR3;2021-06-29 08:00;2021-06-29 10:00;Un cours d'informatique;1;false;6
+Cour CIR3;2021-06-29 10:00;2021-06-29 12:00;Un cours d’électronique;1;false;6
+Cour CIR3;2021-06-29 13:30;2021-06-29 15:30;Un cours de communication;1;false;6
+Cour CIR3;2021-06-29 16:00;2021-06-29 18:00;Un cours cybersécurité;1;false;6
+Cour CIR3;2021-07-01 08:00;2021-07-01 10:00;Un cours d'informatique;1;false;6
+Cour CIR3;2021-07-01 10:00;2021-07-01 12:00;Un cours d’électronique;1;false;6
+Cour CIR3;2021-07-01 13:30;2021-07-01 15:30;Un cours de communication;1;false;6
+Cour CIR3;2021-07-01 16:00;2021-07-01 18:00;Un cours cybersécurité;1;false;6
+Cour CIR3;2021-07-02 08:00;2021-07-02 10:00;Un cours d'informatique;1;true;6
+Cour CIR3;2021-07-02 10:00;2021-07-02 12:00;Un cours d’électronique;1;true;6
+Cour CIR3;2021-07-02 13:30;2021-07-02 15:30;Un cours de communication;1;true;6
+Cour CIR3;2021-07-02 16:00;2021-07-02 18:00;Un cours cybersécurité;1;true;6
+Cour CIR3;2021-07-05 08:00;2021-07-05 10:00;Un cours d'informatique;1;true;6
+Cour CIR3;2021-07-05 10:00;2021-07-05 12:00;Un cours d’électronique;1;true;6
+Cour CIR3;2021-07-05 13:30;2021-07-05 13:30;Un cours de communication;1;true;6
+Cour CIR3;2021-07-05 16:00;2021-07-05 18:00;Un cours cybersécurité;1;true;6
+Cour CIR3;2021-07-06 08:00;2021-07-06 10:00;Un cours d'informatique;1;false;6
+Cour CIR3;2021-07-06 10:00;2021-07-06 12:00;Un cours d’électronique;1;false;6
+Cour CIR3;2021-07-06 13:30;2021-07-06 13:30;Un cours de communication;1;false;6
+Cour CIR3;2021-07-06 16:00;2021-07-06 18:00;Un cours cybersécurité;1;false;6
+Cour CIR3;2021-07-08 08:00;2021-07-08 10:00;Un cours d'informatique;1;false;6
+Cour CIR3;2021-07-08 10:00;2021-07-08 12:00;Un cours d’électronique;1;false;6
+Cour CIR3;2021-07-08 13:30;2021-07-08 13:30;Un cours de communication;1;false;6
+Cour CIR3;2021-07-08 16:00;2021-07-08 18:00;Un cours cybersécurité;1;false;6
+Cour CIR3;2021-07-09 08:00;2021-07-09 10:00;Un cours d'informatique;1;false;6
+Cour CIR3;2021-07-09 10:00;2021-07-09 12:00;Un cours d’électronique;1;false;6
+Cour CIR3;2021-07-09 13:30;2021-07-09 13:30;Un cours de communication;1;false;6
+Cour CIR3;2021-07-09 16:00;2021-07-09 18:00;Un cours cybersécurité;1;false;6

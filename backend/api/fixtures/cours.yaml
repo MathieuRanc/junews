@@ -1,0 +1,185 @@
+App\Entity\Cours:
+    cours_{1..100}:
+        nom: <name()>
+        dateDebut: '<DateTime("now")>'
+        dateFin: '<DateTimeBetween("dateDebut", "2 days")>'
+        description: <text()>
+        lieu: "@lieu_*"
+        etudiants: "10x @etudiant_*"
+        examen: "<boolean()>"
+
+
+# App\Entity\Cours:
+    # cours_1::
+    #     nom: 'Maths'
+    #     dateDebut: '<(new dateTimeB"etween("2021-07-13T08:00:00", "1-07-13T080"", "20Between21-07-13T08:00:00"+000,, -07-13T08:00:00"+000,)>'
+    #     dateFin: '<(new dateTimeB"etween("2021-07-13T18:00:00", "1-07-13T180"", "20Between21-07-13T18:00:00"+000,, -07-13T18:00:00"+000,)>'
+    #     description: 'un cour
+    #     lieu: "@lieu_1"
+    #     etudiants:
+    #         - "@etudiant_1"
+    #         - "@etudiant_2"
+    #         - "@etudiant_3"
+    #         - "@etudiant_4"
+    #         - "@etudiant_5"
+
+    # cours_1:
+    #     nom: Electronique
+    #     dateDebut: '<DateTimeBetween("2020-05-16T08:00+000", 2020-05-16T08:00+000")>'
+    #     dateFin: '<DateTimeBetween("2020-05-16T10:00+000", 2020-05-16T10:00+000")>'
+    #     description: Un cours d’électronique
+    #     lieu: "@lieu_*"
+    #     etudiants: "10x etudiant_*"
+    #     examen: false
+    # cours_2:
+    #     nom: Electronique
+    #     dateDebut: '<DateTimeBetween("2020-05-17T08:00+000", 2020-05-17T08:00+000")>'
+    #     dateFin: '<DateTimeBetween("2020-05-17T10:00+000", 2020-05-17T10:00+000")>'
+    #     description: Un cours d’électronique
+    #     lieu: "@lieu_*"
+    #     etudiants: "10x etudiant_*"
+    #     examen: false
+    # cours_3:
+    #     nom: Electronique
+    #     dateDebut: '<DateTimeBetween("2020-05-18T08:00+000", 2020-05-18T08:00+000")>'
+    #     dateFin: '<DateTimeBetween("2020-05-18T10:00+000", 2020-05-18T10:00+000")>'
+    #     description: Un cours d’électronique
+    #     lieu: "@lieu_*"
+    #     etudiants: "10x etudiant_*"
+    #     examen: false
+    # cours_4:
+    #     nom: Electronique
+    #     dateDebut: '<DateTimeBetween("2020-05-19T08:00+000", 2020-05-19T08:00+000")>'
+    #     dateFin: '<DateTimeBetween("2020-05-19T10:00+000", 2020-05-19T10:00+000")>'
+    #     description: Un cours d’électronique
+    #     lieu: "@lieu_*"
+    #     etudiants: "10x etudiant_*"
+    #     examen: true
+    # cours_5:
+    #     nom: Electronique
+    #     dateDebut: '<DateTimeBetween("2020-05-20T08:00+000", 2020-05-20T08:00+000")>'
+    #     dateFin: '<DateTimeBetween("2020-05-20T10:00+000", 2020-05-20T10:00+000")>'
+    #     description: Un cours d’électronique
+    #     lieu: "@lieu_*"
+    #     etudiants: "10x etudiant_*"
+    #     examen: true
+    # cours_6:
+    #     nom: Electronique
+    #     dateDebut: '<DateTimeBetween("2020-05-21T08:00+000", 2020-05-21T08:00+000")>'
+    #     dateFin: '<DateTimeBetween("2020-05-21T10:00+000", 2020-05-21T10:00+000")>'
+    #     description: Un cours d’électronique
+    #     lieu: "@lieu_*"
+    #     etudiants: "10x etudiant_*"
+    #     examen: false
+    # cours_7:
+    #     nom: Electronique
+    #     dateDebut: '<DateTimeBetween("2020-05-22T08:00+000", 2020-05-22T08:00+000")>'
+    #     dateFin: '<DateTimeBetween("2020-05-22T10:00+000", 2020-05-22T10:00+000")>'
+    #     description: Un cours d’électronique
+    #     lieu: "@lieu_*"
+    #     etudiants: "10x etudiant_*"
+    #     examen: true
+    # cours_8:
+    #     nom: Electronique
+    #     dateDebut: '<DateTimeBetween("2020-05-23T08:00+000", 2020-05-23T08:00+000")>'
+    #     dateFin: '<DateTimeBetween("2020-05-23T10:00+000", 2020-05-23T10:00+000")>'
+    #     description: Un cours d’électronique
+    #     lieu: "@lieu_*"
+    #     etudiants: "10x etudiant_*"
+    #     examen: true
+    # cours_9:
+    #     nom: Electronique
+    #     dateDebut: '<DateTimeBetween("2020-05-24T08:00+000", 2020-05-24T08:00+000")>'
+    #     dateFin: '<DateTimeBetween("2020-05-24T10:00+000", 2020-05-24T10:00+000")>'
+    #     description: Un cours d’électronique
+    #     lieu: "@lieu_*"
+    #     etudiants: "10x etudiant_*"
+    #     examen: false
+    # cours_10:
+    #     nom: Electronique
+    #     dateDebut: '<DateTimeBetween("2020-05-25T08:00+000", 2020-05-25T08:00+000")>'
+    #     dateFin: '<DateTimeBetween("2020-05-25T10:00+000", 2020-05-25T10:00+000")>'
+    #     description: Un cours d’électronique
+    #     lieu: "@lieu_*"
+    #     etudiants: "10x etudiant_*"
+    #     examen: false
+    # cours_11:
+    #     nom: Informatique
+    #     dateDebut: '<DateTimeBetween("2020-05-16T10:00+000", 2020-05-16T10:00+000")>'
+    #     dateFin: '<DateTimBetweene("2020-05-16T12:0+000, "2020-05-16T12:0+000")>'
+    #     description: Un cours d’informatique
+    #     lieu: "@lieu_*"
+    #     etudiants: "10x etudiant_*"
+    #     examen: true
+    # cours_12:
+    #     nom: Informatique
+    #     dateDebut: '<DateTimeBetween("2020-05-17T10:00+000", 2020-05-17T10:00+000")>'
+    #     dateFin: '<DateTimBetweene("2020-05-17T12:0+000, "2020-05-17T12:0+000")>'
+    #     description: Un cours d’informatique
+    #     lieu: "@lieu_*"
+    #     etudiants: "10x etudiant_*"
+    #     examen: true
+    # cours_13:
+    #     nom: Informatique
+    #     dateDebut: '<DateTimeBetween("2020-05-18T10:00+000", 2020-05-18T10:00+000")>'
+    #     dateFin: '<DateTimBetweene("2020-05-18T12:0+000, "2020-05-18T12:0+000")>'
+    #     description: Un cours d’informatique
+    #     lieu: "@lieu_*"
+    #     etudiants: "10x etudiant_*"
+    #     examen: true
+    # cours_14:
+    #     nom: Informatique
+    #     dateDebut: '<DateTimeBetween("2020-05-19T10:00+000", 2020-05-19T10:00+000")>'
+    #     dateFin: '<DateTimBetweene("2020-05-19T12:0+000, "2020-05-19T12:0+000")>'
+    #     description: Un cours d’informatique
+    #     lieu: "@lieu_*"
+    #     etudiants: "10x etudiant_*"
+    #     examen: true
+    # cours_15:
+    #     nom: Informatique
+    #     dateDebut: '<DateTimeBetween("2020-05-20T10:00+000", 2020-05-20T10:00+000")>'
+    #     dateFin: '<DateTimBetweene("2020-05-20T12:0+000, "2020-05-20T12:0+000")>'
+    #     description: Un cours d’informatique
+    #     lieu: "@lieu_*"
+    #     etudiants: "10x etudiant_*"
+    #     examen: true
+    # cours_16:
+    #     nom: Informatique
+    #     dateDebut: '<DateTimeBetween("2020-05-21T10:00+000", 2020-05-21T10:00+000")>'
+    #     dateFin: '<DateTimBetweene("2020-05-21T12:0+000, "2020-05-21T12:0+000")>'
+    #     description: Un cours d’informatique
+    #     lieu: "@lieu_*"
+    #     etudiants: "10x etudiant_*"
+    #     examen: false
+    # cours_17:
+    #     nom: Informatique
+    #     dateDebut: '<DateTimeBetween("2020-05-22T10:00+000", 2020-05-22T10:00+000")>'
+    #     dateFin: '<DateTimBetweene("2020-05-22T12:0+000, "2020-05-22T12:0+000")>'
+    #     description: Un cours d’informatique
+    #     lieu: "@lieu_*"
+    #     etudiants: "10x etudiant_*"
+    #     examen: false
+    # cours_18:
+    #     nom: Informatique
+    #     dateDebut: '<DateTimeBetween("2020-05-23T10:00+000", 2020-05-23T10:00+000")>'
+    #     dateFin: '<DateTimBetweene("2020-05-23T12:0+000, "2020-05-23T12:0+000")>'
+    #     description: Un cours d’informatique
+    #     lieu: "@lieu_*"
+    #     etudiants: "10x etudiant_*"
+    #     examen: false
+    # cours_19:
+    #     nom: Informatique
+    #     dateDebut: '<DateTimeBetween("2020-05-24T10:00+000", 2020-05-24T10:00+000")>'
+    #     dateFin: '<DateTimBetweene("2020-05-24T12:0+000, "2020-05-24T12:0+000")>'
+    #     description: Un cours d’informatique
+    #     lieu: "@lieu_*"
+    #     etudiants: "10x etudiant_*"
+    #     examen: true
+    # cours_20:
+    #     nom: Informatique
+    #     dateDebut: '<DateTimeBetween("2020-05-25T10:00+000", 2020-05-25T10:00+000")>'
+    #     dateFin: '<DateTimBetweene("2020-05-25T12:0+000, "2020-05-25T12:0+000")>'
+    #     description: Un cours d’informatique
+    #     lieu: "@lieu_*"
+    #     etudiants: "10x etudiant_*"
+    #     examen: true

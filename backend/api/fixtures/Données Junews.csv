@@ -1,0 +1,350 @@
+    cours_1
+        nom: Electronique
+        dateDebut: 2020-05-16T08:00+0000
+        dateFin: 2020-05-16 10:00
+        description: Un cours d’électronique;1
+        lieu: "@lieu_*
+        etudiants: "10x etudiant_*"
+    cours_2
+        nom: Electronique
+        dateDebut: 2020-05-17T08:00+0000
+        dateFin: 2020-05-17 10:00
+        description: Un cours d’électronique;2
+        lieu: "@lieu_*
+        etudiants: "10x etudiant_*"
+    cours_3
+        nom: Electronique
+        dateDebut: 2020-05-18T08:00+0000
+        dateFin: 2020-05-18 10:00
+        description: Un cours d’électronique;3
+        lieu: "@lieu_*
+        etudiants: "10x etudiant_*"
+    cours_4
+        nom: Electronique
+        dateDebut: 2020-05-19T08:00+0000
+        dateFin: 2020-05-19 10:00
+        description: Un cours d’électronique;4
+        lieu: "@lieu_*
+        etudiants: "10x etudiant_*"
+    cours_5
+        nom: Electronique
+        dateDebut: 2020-05-20T08:00+0000
+        dateFin: 2020-05-20 10:00
+        description: Un cours d’électronique;5
+        lieu: "@lieu_*
+        etudiants: "10x etudiant_*"
+    cours_6
+        nom: Electronique
+        dateDebut: 2020-05-21T08:00+0000
+        dateFin: 2020-05-21 10:00
+        description: Un cours d’électronique;6
+        lieu: "@lieu_*
+        etudiants: "10x etudiant_*"
+    cours_7
+        nom: Electronique
+        dateDebut: 2020-05-22T08:00+0000
+        dateFin: 2020-05-22 10:00
+        description: Un cours d’électronique;7
+        lieu: "@lieu_*
+        etudiants: "10x etudiant_*"
+    cours_8
+        nom: Electronique
+        dateDebut: 2020-05-23T08:00+0000
+        dateFin: 2020-05-23 10:00
+        description: Un cours d’électronique;8
+        lieu: "@lieu_*
+        etudiants: "10x etudiant_*"
+    cours_9
+        nom: Electronique
+        dateDebut: 2020-05-24T08:00+0000
+        dateFin: 2020-05-24 10:00
+        description: Un cours d’électronique;9
+        lieu: "@lieu_*
+        etudiants: "10x etudiant_*"
+    cours_10
+        nom: Electronique
+        dateDebut: 2020-05-25T08:00+0000
+        dateFin: 2020-05-25 10:00
+        description: Un cours d’électronique;10
+        lieu: "@lieu_*
+        etudiants: "10x etudiant_*"
+    cours_11
+        nom: Informatique
+        dateDebut: 2020-05-16T10:00+0000
+        dateFin: 2020-05-16 12:00
+        description: Un cours d’informatique;1
+        lieu: "@lieu_*
+        etudiants: "10x etudiant_*"
+    cours_12
+        nom: Informatique
+        dateDebut: 2020-05-17T10:00+0000
+        dateFin: 2020-05-17 12:00
+        description: Un cours d’informatique;2
+        lieu: "@lieu_*
+        etudiants: "10x etudiant_*"
+    cours_13
+        nom: Informatique
+        dateDebut: 2020-05-18T10:00+0000
+        dateFin: 2020-05-18 12:00
+        description: Un cours d’informatique;3
+        lieu: "@lieu_*
+        etudiants: "10x etudiant_*"
+    cours_14
+        nom: Informatique
+        dateDebut: 2020-05-19T10:00+0000
+        dateFin: 2020-05-19 12:00
+        description: Un cours d’informatique;4
+        lieu: "@lieu_*
+        etudiants: "10x etudiant_*"
+    cours_15
+        nom: Informatique
+        dateDebut: 2020-05-20T10:00+0000
+        dateFin: 2020-05-20 12:00
+        description: Un cours d’informatique;5
+        lieu: "@lieu_*
+        etudiants: "10x etudiant_*"
+    cours_16
+        nom: Informatique
+        dateDebut: 2020-05-21T10:00+0000
+        dateFin: 2020-05-21 12:00
+        description: Un cours d’informatique;6
+        lieu: "@lieu_*
+        etudiants: "10x etudiant_*"
+    cours_17
+        nom: Informatique
+        dateDebut: 2020-05-22T10:00+0000
+        dateFin: 2020-05-22 12:00
+        description: Un cours d’informatique;7
+        lieu: "@lieu_*
+        etudiants: "10x etudiant_*"
+    cours_18
+        nom: Informatique
+        dateDebut: 2020-05-23T10:00+0000
+        dateFin: 2020-05-23 12:00
+        description: Un cours d’informatique;8
+        lieu: "@lieu_*
+        etudiants: "10x etudiant_*"
+    cours_19
+        nom: Informatique
+        dateDebut: 2020-05-24T10:00+0000
+        dateFin: 2020-05-24 12:00
+        description: Un cours d’informatique;9
+        lieu: "@lieu_*
+        etudiants: "10x etudiant_*"
+    cours_20
+        nom: Informatique
+        dateDebut: 2020-05-25T10:00+0000
+        dateFin: 2020-05-25 12:00
+        description: Un cours d’informatique;10
+        lieu: "@lieu_*
+        etudiants: "10x etudiant_*"
+    cours_21
+        nom: Communication
+        dateDebut: 2020-05-16T13:30+0000
+        dateFin: 2020-05-16 15:30
+        description: Un cours de communication;1
+        lieu: "@lieu_*
+        etudiants: "10x etudiant_*"
+    cours_22
+        nom: Communication
+        dateDebut: 2020-05-17T13:30+0000
+        dateFin: 2020-05-17 15:30
+        description: Un cours de communication;2
+        lieu: "@lieu_*
+        etudiants: "10x etudiant_*"
+    cours_23
+        nom: Communication
+        dateDebut: 2020-05-18T13:30+0000
+        dateFin: 2020-05-18 15:30
+        description: Un cours de communication;3
+        lieu: "@lieu_*
+        etudiants: "10x etudiant_*"
+    cours_24
+        nom: Communication
+        dateDebut: 2020-05-19T13:30+0000
+        dateFin: 2020-05-19 15:30
+        description: Un cours de communication;4
+        lieu: "@lieu_*
+        etudiants: "10x etudiant_*"
+    cours_25
+        nom: Communication
+        dateDebut: 2020-05-20T13:30+0000
+        dateFin: 2020-05-20 15:30
+        description: Un cours de communication;5
+        lieu: "@lieu_*
+        etudiants: "10x etudiant_*"
+    cours_26
+        nom: Physique du solide
+        dateDebut: 2020-05-21T13:30+0000
+        dateFin: 2020-05-21 15:30
+        description: Un cours de physique du solide;6
+        lieu: "@lieu_*
+        etudiants: "10x etudiant_*"
+    cours_27
+        nom: Physique du solide
+        dateDebut: 2020-05-22T13:30+0000
+        dateFin: 2020-05-22 15:30
+        description: Un cours de physique du solide;7
+        lieu: "@lieu_*
+        etudiants: "10x etudiant_*"
+    cours_28
+        nom: Physique du solide
+        dateDebut: 2020-05-23T13:30+0000
+        dateFin: 2020-05-23 15:30
+        description: Un cours de physique du solide;8
+        lieu: "@lieu_*
+        etudiants: "10x etudiant_*"
+    cours_29
+        nom: Physique du solide
+        dateDebut: 2020-05-24T13:30+0000
+        dateFin: 2020-05-24 15:30
+        description: Un cours de physique du solide;9
+        lieu: "@lieu_*
+        etudiants: "10x etudiant_*"
+    cours_30
+        nom: Physique du solide
+        dateDebut: 2020-05-25T13:30+0000
+        dateFin: 2020-05-25 15:30
+        description: Un cours de physique du solide;10
+        lieu: "@lieu_*
+        etudiants: "10x etudiant_*"
+    cours_31
+        nom: Automatique
+        dateDebut: 2020-05-16T16:00+0000
+        dateFin: 2020-05-16 18:00
+        description: Un cours d’automatique;1
+        lieu: "@lieu_*
+        etudiants: "10x etudiant_*"
+    cours_32
+        nom: Automatique
+        dateDebut: 2020-05-17T16:00+0000
+        dateFin: 2020-05-17 18:00
+        description: Un cours d’automatique;2
+        lieu: "@lieu_*
+        etudiants: "10x etudiant_*"
+    cours_33
+        nom: Automatique
+        dateDebut: 2020-05-18T16:00+0000
+        dateFin: 2020-05-18 18:00
+        description: Un cours d’automatique;3
+        lieu: "@lieu_*
+        etudiants: "10x etudiant_*"
+    cours_34
+        nom: Automatique
+        dateDebut: 2020-05-19T16:00+0000
+        dateFin: 2020-05-19 18:00
+        description: Un cours d’automatique;4
+        lieu: "@lieu_*
+        etudiants: "10x etudiant_*"
+    cours_35
+        nom: Automatique
+        dateDebut: 2020-05-20T16:00+0000
+        dateFin: 2020-05-20 18:00
+        description: Un cours d’automatique;5
+        lieu: "@lieu_*
+        etudiants: "10x etudiant_*"
+    cours_36
+        nom: Automatique
+        dateDebut: 2020-05-21T16:00+0000
+        dateFin: 2020-05-21 18:00
+        description: Un cours d’automatique;6
+        lieu: "@lieu_*
+        etudiants: "10x etudiant_*"
+    cours_37
+        nom: Automatique
+        dateDebut: 2020-05-22T16:00+0000
+        dateFin: 2020-05-22 18:00
+        description: Un cours d’automatique;7
+        lieu: "@lieu_*
+        etudiants: "10x etudiant_*"
+    cours_38
+        nom: Automatique
+        dateDebut: 2020-05-23T16:00+0000
+        dateFin: 2020-05-23 18:00
+        description: Un cours d’automatique;8
+        lieu: "@lieu_*
+        etudiants: "10x etudiant_*"
+    cours_39
+        nom: Automatique
+        dateDebut: 2020-05-24T16:00+0000
+        dateFin: 2020-05-24 18:00
+        description: Un cours d’automatique;9
+        lieu: "@lieu_*
+        etudiants: "10x etudiant_*"
+    cours_40
+        nom: Automatique
+        dateDebut: 2020-05-25T16:00+0000
+        dateFin: 2020-05-25 18:00
+        description: Un cours d’automatique;10
+        lieu: "@lieu_*
+        etudiants: "10x etudiant_*"
+    cours_41
+        nom: Projet
+        dateDebut: 2020-05-16T18:00+0000
+        dateFin: 2020-05-16 20:00
+        description: Un cours de projet;1
+        lieu: "@lieu_*
+        etudiants: "10x etudiant_*"
+    cours_42
+        nom: Projet
+        dateDebut: 2020-05-17T18:00+0000
+        dateFin: 2020-05-17 20:00
+        description: Un cours de projet;2
+        lieu: "@lieu_*
+        etudiants: "10x etudiant_*"
+    cours_43
+        nom: Projet
+        dateDebut: 2020-05-18T18:00+0000
+        dateFin: 2020-05-18 20:00
+        description: Un cours de projet;3
+        lieu: "@lieu_*
+        etudiants: "10x etudiant_*"
+    cours_44
+        nom: Projet
+        dateDebut: 2020-05-19T18:00+0000
+        dateFin: 2020-05-19 20:00
+        description: Un cours de projet;4
+        lieu: "@lieu_*
+        etudiants: "10x etudiant_*"
+    cours_45
+        nom: Projet
+        dateDebut: 2020-05-20T18:00+0000
+        dateFin: 2020-05-20 20:00
+        description: Un cours de projet;5
+        lieu: "@lieu_*
+        etudiants: "10x etudiant_*"
+    cours_46
+        nom: Projet
+        dateDebut: 2020-05-21T18:00+0000
+        dateFin: 2020-05-21 20:00
+        description: Un cours de projet;6
+        lieu: "@lieu_*
+        etudiants: "10x etudiant_*"
+    cours_47
+        nom: Projet
+        dateDebut: 2020-05-22T18:00+0000
+        dateFin: 2020-05-22 20:00
+        description: Un cours de projet;7
+        lieu: "@lieu_*
+        etudiants: "10x etudiant_*"
+    cours_48
+        nom: Projet
+        dateDebut: 2020-05-23T18:00+0000
+        dateFin: 2020-05-23 20:00
+        description: Un cours de projet;8
+        lieu: "@lieu_*
+        etudiants: "10x etudiant_*"
+    cours_49
+        nom: Projet
+        dateDebut: 2020-05-24T18:00+0000
+        dateFin: 2020-05-24 20:00
+        description: Un cours de projet;9
+        lieu: "@lieu_*
+        etudiants: "10x etudiant_*"
+    cours_50
+        nom: Projet
+        dateDebut: 2020-05-25T18:00+0000
+        dateFin: 2020-05-25 20:00
+        description: Un cours de projet;10
+        lieu: "@lieu_*
+        etudiants: "10x etudiant_*"

@@ -1,0 +1,11 @@
+App\Entity\Evenement:
+  evenement_{1..30}:
+    nom: <name()>
+    description: <text()>
+    dateDebut: <dateTimeBetween("-10 days", "50 days")>
+    materiels: "10x @materiel_*"
+    # promos: "10x @promotion_*"
+    association: "@association_*"
+    lieu: "@lieu_*"
+    etudiants: "10x @etudiant_*"
+    dateFin: <dateTimeBetween("now", "100 days")>

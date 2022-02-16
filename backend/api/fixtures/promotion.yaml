@@ -1,0 +1,6 @@
+App\Entity\Promotion:
+  promotion_{1..6}:
+    nom: <name()>
+    ecole: <name()>
+    evenements: "10x @evenement_*"
+    etudiants: "10x @etudiant_*"

@@ -1,0 +1,22 @@
+App\Entity\Etudiant:
+  # etudiant_1:
+  #   email: "azerty"
+  #   password: $argon2id$v=19$m=65536,t=4,p=1$0fO6b3MEJg/cTt//Lrckpw$sN/w4vY+o8U71z9IT8pwCO0V34GoQDRzZFAh+AcBtH8
+  #   nom: <lastName()>
+  #   prenom: <firstName()>
+  #   evenements: "10x @evenement_*"
+  #   associations: "10x @association_*"
+  #   cours: "10x @cours_*"
+  #   promotion: "@promotion_*"
+  #   administre: 1
+
+  etudiant_{1..200}:
+    nom: <lastName()>
+    prenom: <firstName()>
+    email: <email()>
+    password: <password()>
+    evenements: "10x @evenement_*"
+    associations: "10x @association_*"
+    # cours: "10x @cours_*"
+    promotion: "@promotion_*"
+    administre: 1

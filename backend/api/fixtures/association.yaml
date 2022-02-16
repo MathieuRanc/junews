@@ -1,0 +1,7 @@
+App\Entity\Association:
+    association_{1..20}:
+        nom: <name()>
+        description: <text()>
+        evenements: "10x @evenement_*"
+        etudiants: "10x @etudiant_*"
+        administrateurs: [1, 2, 3, 4]
